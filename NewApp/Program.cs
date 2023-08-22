@@ -9,6 +9,6 @@ public class Program
         Person ps = new Person();
         string str = "Nguyen Van A";
         int a = 22;
-        ps.Display2(str, a);
+        Console.WriteLine("{0} sinh nam {1}", str, ps.GetYear0fBirth(a));
     }
 }
