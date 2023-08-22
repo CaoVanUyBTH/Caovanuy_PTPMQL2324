@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\bin\Debug\net7.0\NewApp.exe
+c:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\bin\Debug\net7.0\NewApp.deps.json
+c:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\bin\Debug\net7.0\NewApp.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\bin\Debug\net7.0\NewApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\bin\Debug\net7.0\NewApp.pdb
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\refint\NewApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.pdb
+c:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\NewApp.genruntimeconfig.cache
+c:\Users\ASUS\OneDrive\Máy tính\PTQMPL\Caovanuy_PTPMQL2324\NewApp\obj\Debug\net7.0\ref\NewApp.dll
