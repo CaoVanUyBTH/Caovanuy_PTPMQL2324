@@ -2,12 +2,17 @@ namespace testapp.test
 {
     public class Student : test
     {
-        public string StudentID { get; set; }
+        public float StudentID { get; set; }
         public void EnterData()
         {
-        base.EnterData();
-        System.Console.Write("Student ID = ");
-        StudentID = Console.ReadLine();
+            base.EnterData();
+            System.Console.Write("Student ID = ");
+            try{
+                StudentID = Convert.ToInt16(Console.ReadLine());
+            }catch(Exception e)
+            {
+                StudentID = 0;
+            }
         }
         public void Display()
         {
