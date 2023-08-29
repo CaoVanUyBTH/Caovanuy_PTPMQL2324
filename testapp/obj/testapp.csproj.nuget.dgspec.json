@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj": {}
+    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj": {
+    "c:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj",
+        "projectUniqueName": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj",
         "projectName": "testapp",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj",
+        "projectPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\testapp.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\obj\\",
+        "outputPath": "c:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\testapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
